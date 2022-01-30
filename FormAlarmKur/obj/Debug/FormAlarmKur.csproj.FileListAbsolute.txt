@@ -34,3 +34,9 @@ C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\ob
 C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.Form1.resources
 C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\Alarm.Properties.Resources.resources
 C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.csproj.GenerateResource.Cache
+C:\Users\Mali\Desktop\GitHub\Alarm\FormAlarmKur\bin\Debug\Alarm.exe.config
+C:\Users\Mali\Desktop\GitHub\Alarm\FormAlarmKur\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mali\Desktop\GitHub\Alarm\FormAlarmKur\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mali\Desktop\GitHub\Alarm\FormAlarmKur\obj\Debug\FormAlarmKur.csproj.ResolveComReference.cache
+C:\Users\Mali\Desktop\GitHub\Alarm\FormAlarmKur\obj\Debug\Alarm.exe
+C:\Users\Mali\Desktop\GitHub\Alarm\FormAlarmKur\obj\Debug\Alarm.pdb
