@@ -1,0 +1,36 @@
+C:\www.programlamadersleri.com\FormAlarmKur\FormAlarmKur\bin\Debug\FormAlarmKur.exe.config
+C:\www.programlamadersleri.com\FormAlarmKur\FormAlarmKur\bin\Debug\FormAlarmKur.exe
+C:\www.programlamadersleri.com\FormAlarmKur\FormAlarmKur\bin\Debug\FormAlarmKur.pdb
+C:\www.programlamadersleri.com\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.Form1.resources
+C:\www.programlamadersleri.com\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.Properties.Resources.resources
+C:\www.programlamadersleri.com\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.csproj.GenerateResource.Cache
+C:\www.programlamadersleri.com\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.exe
+C:\www.programlamadersleri.com\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.pdb
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.Form1.resources
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.csproj.GenerateResource.Cache
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.csprojResolveAssemblyReference.cache
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.csproj.ResolveComReference.cache
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\bin\Debug\Alarm.exe.config
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\bin\Debug\Alarm.exe
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\bin\Debug\Alarm.pdb
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\obj\Debug\Alarm.exe
+C:\Users\Mali\Desktop\FormAlarmKur\FormAlarmKur\obj\Debug\Alarm.pdb
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\bin\Debug\Alarm.exe.config
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.csproj.ResolveComReference.cache
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\Alarm.exe
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\Alarm.pdb
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\bin\Debug\Alarm.exe
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\bin\Debug\Alarm.pdb
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.csprojResolveAssemblyReference.cache
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.Form1.resources
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\Mali\Documents\Visual Studio 2012\Projects\FormAlarmKur\FormAlarmKur\obj\Debug\FormAlarmKur.csproj.GenerateResource.Cache
